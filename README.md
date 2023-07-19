@@ -3,7 +3,7 @@ App to create email accounts for new hires.
 
 Task: create email accounts for new hires.
 
-App should do the following:
+App will do the following:
 
 - Generate an email with the following syntax: firstname.lastname@department.company.com
 - Determine the department (sales, development, accounting), if none leave blank
